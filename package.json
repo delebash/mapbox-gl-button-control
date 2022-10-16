@@ -1,6 +1,6 @@
 {
-  "name": "mapbox-gl-button-control",
-  "version": "1.0.0",
+  "name": "@delebash/mapbox-gl-button-control",
+  "version": "1.0.2",
   "description": "Easily add custom buttons to Mapbox Control Panel",
   "main": "index.js",
   "scripts": {
