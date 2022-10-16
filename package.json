@@ -10,10 +10,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/delebash/Mapbox_GL_JS_Button_Control.git"
+    "url": "git+https://github.com/delebash/mapbox-gl-button-control.git"
   },
   "bugs": {
-    "url": "https://github.com/delebash/Mapbox_GL_JS_Button_Control/issues"
+    "url": "https://github.com/delebash/mapbox-gl-button-control/issues"
   },
   "homepage": "https://github.com/delebash/mapbox-gl-button-control#readme"
 }
