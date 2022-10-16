@@ -11,6 +11,7 @@
     "vite": "^3.1.0"
   },
   "dependencies": {
+    "@delebash/mapbox-gl-button-control": "^1.0.3",
     "mapbox-gl": "^2.10.0"
   }
 }

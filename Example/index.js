@@ -1,7 +1,7 @@
 import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css'
 import './styles.css'
-import MapboxGLButtonControl from '../index.js'
+import MapboxGLButtonControl from '@delebash/mapbox-gl-button-control'
 
 mapboxgl.accessToken =
     "your mapbox access token";
