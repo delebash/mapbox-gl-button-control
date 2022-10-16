@@ -1,5 +1,5 @@
 {
-  "name": "@scope-name/mapbox_gl_js_button_control",
+  "name": "mapbox-gl-button-control",
   "version": "1.0.0",
   "description": "Easily add custom buttons to Mapbox Control Panel",
   "main": "index.js",
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/delebash/Mapbox_GL_JS_Button_Control/issues"
   },
-  "homepage": "https://github.com/delebash/Mapbox_GL_JS_Button_Control#readme"
+  "homepage": "https://github.com/delebash/mapbox-gl-button-control#readme"
 }

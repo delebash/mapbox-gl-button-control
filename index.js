@@ -30,4 +30,4 @@ class MapboxGLButtonControl {
     }
 }
 
-export {MapboxGLButtonControl}
+export default MapboxGLButtonControl
